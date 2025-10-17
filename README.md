@@ -1,4 +1,4 @@
-# Hi, I'm Farnaz (fsasanian) 👋
+# Farnaz Sasanian
 
 I'm a Master's student in Data Science with a background in Economics. I enjoy applying statistical methods and machine learning to real-world problems, building reproducible notebooks and clear visualizations, and sharing projects that demonstrate applied data skills.
 
