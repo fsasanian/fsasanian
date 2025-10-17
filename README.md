@@ -15,10 +15,6 @@ Skills
 - Concepts: statistics, econometrics, experimental design, feature engineering
 - Tools & infra: Git, Docker, basic AWS / cloud concepts
 
-Selected Projects
-- [house-price-analysis](https://github.com/fsasanian/house-price-analysis) — Exploratory analysis and predictive model for housing prices using gradient boosting. (Replace with your repo)
-- [customer-churn-model](https://github.com/fsasanian/customer-churn-model) — Classification pipeline with feature engineering, model evaluation, and interpretation. (Replace with your repo)
-- [policy-impact-econ](https://github.com/fsasanian/policy-impact-econ) — Econometric analysis of policy effects with causal inference methods. 
 
 
 Contact
