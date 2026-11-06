@@ -36,5 +36,6 @@ Analyzed bike-sharing patterns using SQL and Google BigQuery and developed an in
 
 - **Email:** [farnazsasanian@gmail.com](mailto:farnazsasanian@gmail.com)
 - **LinkedIn:** [linkedin.com/in/fsasanian](https://www.linkedin.com/in/fsasanian/)
+- **Tableau Portfolio:** [View My Dashboards](https://public.tableau.com/app/profile/farnaz.sasanian/vizzes)
 
 Thanks for visiting! Feel free to explore my projects or reach out to connect and collaborate.
